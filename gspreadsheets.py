@@ -11,4 +11,3 @@ def get_spreadsheet():
     # Make sure you use the right name here.
     sheet = client.open("ExchangeRates").sheet1
     return sheet
-
